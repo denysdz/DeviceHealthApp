@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="device_scan">Device Scan</string>
+    <string name="show_you_all_info_n_about_phone">Show you all info\n about phone</string>
+    <string name="scan">Scan</string>
+    <string name="check_for_viruses">Check for Viruses</string>
+    <string name="show_you_all_info_about_phone">Show you all info about phone</string>
+    <string name="check">Check</string>
+</resources>
